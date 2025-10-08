@@ -1,0 +1,1 @@
+[{"id":"BRAND-1","content":"ヘッダーロゴアイコンを削除しヘッダーのレイアウトを整える","status":"completed","priority":"medium"},{"id":"BRAND-2","content":"アプリタイトルを『MultiMap Search』から『MapMerge』に変更する","status":"completed","priority":"medium"},{"id":"BRAND-3","content":"修正後にビルドを再実行し問題がないことを確認する","status":"completed","priority":"high"}]
